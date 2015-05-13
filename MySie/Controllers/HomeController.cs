@@ -28,5 +28,11 @@ namespace MySie.Controllers
 
             return View();
         }
+        public ActionResult Gallery()
+        {
+            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+
+            return View();
+        }
     }
 }
