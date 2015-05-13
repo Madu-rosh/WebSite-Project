@@ -155,6 +155,5 @@ C:\Users\Roshan Karunarathna\Documents\GitHub\WebSite-Project\MySie\bin\ko\Syste
 C:\Users\Roshan Karunarathna\Documents\GitHub\WebSite-Project\MySie\bin\ru\System.Spatial.resources.dll
 C:\Users\Roshan Karunarathna\Documents\GitHub\WebSite-Project\MySie\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\Roshan Karunarathna\Documents\GitHub\WebSite-Project\MySie\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\Roshan Karunarathna\Documents\GitHub\WebSite-Project\MySie\obj\Debug\MySie.csprojResolveAssemblyReference.cache
 C:\Users\Roshan Karunarathna\Documents\GitHub\WebSite-Project\MySie\obj\Debug\MySie.dll
 C:\Users\Roshan Karunarathna\Documents\GitHub\WebSite-Project\MySie\obj\Debug\MySie.pdb
